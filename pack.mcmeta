@@ -1,0 +1,32 @@
+{
+	"pack": {
+		"name": "Minecraft 1.21.10 3D材质包",
+		"version": "1.0.0",
+		"source": "https://modrinth.com",
+		"pack_format": 15,
+		"supported_formats": {
+			"min_inclusive": 15,
+			"max_inclusive": 1024
+		},
+		"min_format": 15,
+		"max_format": 1024,
+		"description": [
+			{
+				"text": "通过",
+				"color": "#808080"
+			},
+			{
+				"text": "更换原版方块以及物品的模型",
+				"color": "#a0a0a0"
+			},
+			{
+				"text": "让世界",
+				"color": "#808080"
+			},
+			{
+				"text": "更加丰富",
+				"color": "#beabee"
+			}
+		]
+	}
+}
