@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_planks",
+  "textures": {
+    "particle": "minecraft:block/jungle_planks",
+    "all": "minecraft:block/jungle_planks"
+  }
+}
