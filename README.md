@@ -33,3 +33,15 @@
 - 涂蜡的斑驳铜链（Waxed Exposed Copper Chain）的模型
 - 涂蜡的锈蚀铜链（Waxed Weathered Copper Chain）的模型
 - 涂蜡的氧化铜链（Waxed Oxidized Copper Chain）的模型
+- 橡木木板（Oak Planks）的模型
+- 云山木板（Spruce Planks）的模型
+- 白桦木板（Brich Planks）的模型
+- 丛林木板（Jungle Planks）的模型
+- 合金欢木板（Acacia Planks）的模型
+- 深色橡木木板（Dark Oak Planks）的模型
+- 红树木板（Mangrove Planks）的模型
+- 樱花木板（Cherry Planks）的模型
+- 苍白橡木木板（Pale Oak Planks）的模型
+- 竹板（Bamboo Planks）的模型
+- 绯红木板（Crimson Planks）的模型
+- 诡异木板（Warped Planks）的模型
