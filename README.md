@@ -15,6 +15,10 @@
 - 工作台（Crafting Table）的模型
 - 梯子 （Ladder）的模型
 - 灯笼（Lantern）的模型
+- 火把（Torch）的手持模型
+- 灵魂火把（Soul Torch）的手持模型
+- 铜火把（Copper Torch）的手持模型
+- 红石火把（Redstone Torch）的手持模型
 - 灵魂灯笼（Soul Lantern）的模型
 - 铜灯笼（Copper Lantern）的模型
 - 斑驳的铜灯笼灯笼（Exposed Copper Lantern）的模型
