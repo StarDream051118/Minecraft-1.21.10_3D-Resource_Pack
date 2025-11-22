@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_stripped_log",
+  "textures": {
+    "end": "minecraft:block/stripped_crimson_stem_top",
+    "side": "minecraft:block/stripped_crimson_stem"
+  }
+}

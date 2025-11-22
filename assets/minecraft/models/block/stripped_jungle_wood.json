@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/template_stripped_log",
+  "parent": "minecraft:block/template_wood",
   "textures": {
-    "end": "minecraft:block/stripped_jungle_log",
+    "particle": "minecraft:block/stripped_jungle_log",
     "side": "minecraft:block/stripped_jungle_log"
   }
 }
