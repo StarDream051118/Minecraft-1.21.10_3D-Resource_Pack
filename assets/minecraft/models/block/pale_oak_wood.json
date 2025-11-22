@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wood",
+  "textures": {
+    "particle": "minecraft:block/pale_oak_log",
+    "side": "minecraft:block/pale_oak_log"
+  }
+}

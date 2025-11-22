@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wood",
+  "textures": {
+    "particle": "minecraft:block/acacia_log",
+    "side": "minecraft:block/acacia_log"
+  }
+}
